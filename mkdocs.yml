@@ -2,3 +2,7 @@ site_name: Teste MKdocs
 nav:
   - Home: index.md
   - About: about.md
+  - Teste1: Teste1/teste1.md
+  - Teste2: Teste1/teste2.md
+theme:
+  name: material
